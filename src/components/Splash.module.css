@@ -1,0 +1,155 @@
+.unsplashwpvtt0mem00,
+.unsplashwpvtt0mem00Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 844px;
+}
+.unsplashwpvtt0mem00Icon {
+  object-fit: cover;
+}
+.unsplashwpvtt0mem00 {
+  background-color: rgba(0, 0, 0, 0.24);
+}
+.batteryIcon {
+  position: absolute;
+  top: 11px;
+  left: calc(50% + 152px);
+  width: 27.4px;
+  height: 13px;
+}
+.wifiIcon {
+  position: relative;
+  width: 17px;
+  height: 12px;
+}
+.iconMobileSignal {
+  position: absolute;
+  top: 12px;
+  left: calc(50% + 102px);
+  width: 18px;
+  height: 12px;
+}
+.brandNameChild,
+.brandNameItem {
+  position: absolute;
+  top: 6.7px;
+  left: 0;
+  background-color: var(--color-mediumblue-100);
+  width: 138.3px;
+  height: 33.3px;
+}
+.brandNameItem {
+  left: 138.3px;
+  background-color: var(--color-gold);
+  width: 141.7px;
+}
+.renting {
+  color: var(--color-gray-100);
+}
+.brandName,
+.premierRenting {
+  position: absolute;
+  height: 45px;
+}
+.premierRenting {
+  top: 0;
+  left: 1.6px;
+  display: inline-block;
+  width: 280px;
+}
+.brandName {
+  top: 115px;
+  left: 55.5px;
+  width: 281.6px;
+  text-align: left;
+  font-size: 38px;
+  font-family: var(--font-sf-pro-display);
+}
+.akarIconssearch,
+.fieldBg,
+.searchVehicle {
+  position: absolute;
+  width: 24px;
+  height: 24.5px;
+}
+.akarIconssearch {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.fieldBg,
+.searchVehicle {
+  top: 293.2px;
+  left: 40px;
+}
+.fieldBg {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-55xl);
+  background-color: var(--absolute-static-white-s);
+  width: 354px;
+  height: 60px;
+}
+.fieldBg1,
+.rajasekaran {
+  position: absolute;
+  top: 20px;
+  left: 129px;
+}
+.fieldBg1 {
+  top: 91px;
+  left: 0;
+  border-radius: var(--br-55xl);
+  background-color: var(--absolute-static-white-s);
+  width: 354px;
+  height: 60px;
+}
+.div {
+  top: 114px;
+  left: 124px;
+}
+.btnBg,
+.div,
+.logIn {
+  position: absolute;
+}
+.btnBg {
+  top: 233px;
+  left: 74px;
+  border-radius: var(--br-55xl);
+  background-color: var(--brand-black);
+  width: 206px;
+  height: 60px;
+  cursor: pointer;
+}
+.logIn {
+  top: 248px;
+  left: 145px;
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--absolute-static-white-s);
+}
+.fieldBgParent {
+  position: absolute;
+  top: 288px;
+  left: 18px;
+  width: 354px;
+  height: 293px;
+  color: var(--brand-black);
+}
+.forgotPassword {
+  position: absolute;
+  top: 448px;
+  left: 139px;
+}
+.splash {
+  width: 390px;
+  background-color: var(--absolute-static-white-s);
+  height: 844px;
+  text-align: center;
+  font-size: var(--text-1-size);
+  color: var(--absolute-static-white-s);
+  font-family: var(--text-1);
+}

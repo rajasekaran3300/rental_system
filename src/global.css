@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro-display: "SF Pro Display";
+  --font-mulish: Mulish;
+  --font-montserrat: Montserrat;
+  --text-1: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --text-1-size: 14px;
+  --font-size-4xs: 9px;
+  --font-size-lg: 18px;
+  --font-size-6xs: 7px;
+  --font-size-6xl: 25px;
+  --font-size-4xl: 23px;
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --absolute-static-white-s: #fff;
+  --color-mediumblue-100: #3430e6;
+  --color-mediumblue-200: rgba(51, 48, 229, 0.63);
+  --color-gold: #ffcc00;
+  --brand-black: #212121;
+  --color-gray-100: #001d42;
+  --oil-11: #0d0d0d;
+  --color-gray-200: rgba(0, 0, 0, 0.25);
+  --color-gray-300: rgba(0, 0, 0, 0.12);
+  --color-gray-400: rgba(0, 0, 0, 0.54);
+  --sky-06: #007bff;
+  --color-darkgray: #a8a8a8;
+
+  /* Gaps */
+  --gap-xs: 12px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-lg: 18px;
+  --padding-mid: 17px;
+  --padding-3xs: 10px;
+  --padding-2xs: 11px;
+
+  /* Border radiuses */
+  --br-lgi: 19px;
+  --br-xl: 20px;
+  --br-mini: 15px;
+  --br-5xs: 8px;
+  --br-sm: 14px;
+  --br-lg: 18px;
+  --br-13xl: 32px;
+  --br-55xl: 74px;
+}

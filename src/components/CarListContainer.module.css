@@ -1,0 +1,34 @@
+.mercedesPng801452Icon {
+  width: 66px;
+  position: relative;
+  height: 50px;
+  object-fit: cover;
+}
+.b,
+.mercedes {
+  position: relative;
+}
+.b {
+  font-size: var(--font-size-xs);
+  font-family: var(--font-sf-pro-display);
+  color: var(--sky-06);
+}
+.mercedesParent,
+.mercedesPng801452Parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px 0;
+}
+.mercedesPng801452Parent {
+  border-radius: var(--br-xl);
+  background-color: var(--absolute-static-white-s);
+  padding: var(--padding-5xs) var(--padding-3xs) var(--padding-5xs)
+    var(--padding-2xs);
+  gap: 12px 0;
+  text-align: center;
+  font-size: var(--text-1-size);
+  color: var(--oil-11);
+  font-family: var(--font-mulish);
+}

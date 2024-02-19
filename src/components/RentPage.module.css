@@ -1,0 +1,300 @@
+.rentPageChild {
+  position: absolute;
+  top: 111px;
+  left: 0;
+  border-radius: var(--br-13xl);
+  background: linear-gradient(180deg, #fafafa, rgba(220, 234, 255, 0));
+  width: 390px;
+  height: 734px;
+}
+.bmwGpChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 var(--br-mini);
+  background-color: var(--absolute-static-white-s);
+  box-shadow: 0 29px 20px -33px rgba(0, 0, 0, 0.25);
+  border: 0.3px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 341px;
+  height: 112px;
+}
+.bmw2GranCoupe4dWhite2021Icon {
+  position: absolute;
+  top: 10px;
+  left: 9px;
+  width: 176px;
+  height: 100px;
+  object-fit: cover;
+}
+.bmwGpItem {
+  position: absolute;
+  top: -0.2px;
+  left: 207.8px;
+  border-right: 0.5px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 0.5px;
+  height: 112.5px;
+}
+.automatic,
+.bmwGrandCoupe {
+  position: absolute;
+  top: 6px;
+  left: 18px;
+}
+.automatic {
+  top: 0;
+  left: 22.4px;
+  display: inline-block;
+  width: 64.1px;
+  height: 16.4px;
+}
+.doors1,
+.gear,
+.iconParkSolidmanualGear {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 16.4px;
+}
+.iconParkSolidmanualGear {
+  width: 16.4px;
+  overflow: hidden;
+}
+.doors1,
+.gear {
+  width: 86.5px;
+}
+.doors1 {
+  left: 22.4px;
+  display: inline-block;
+  width: 47.7px;
+}
+.doors,
+.km {
+  left: 0;
+  width: 70.1px;
+}
+.doors {
+  position: absolute;
+  top: 23.9px;
+  height: 16.4px;
+}
+.km {
+  top: 47.7px;
+}
+.aC,
+.ac,
+.arabaZellikleri,
+.km {
+  position: absolute;
+  height: 16.4px;
+}
+.aC {
+  top: 0;
+  left: 22.4px;
+  display: inline-block;
+  width: 29.8px;
+}
+.ac,
+.arabaZellikleri {
+  top: 68.6px;
+  left: 0;
+  width: 52.2px;
+}
+.arabaZellikleri {
+  top: 18px;
+  left: 219px;
+  width: 86.5px;
+  height: 85px;
+  font-size: var(--font-size-xs);
+}
+.bmwGp {
+  width: 341px;
+  position: relative;
+  height: 112px;
+  flex-shrink: 0;
+}
+.toggCardetailMobile11Icon {
+  position: absolute;
+  top: 26px;
+  left: 33px;
+  width: 135px;
+  height: 78px;
+  object-fit: contain;
+}
+.bmwGpParent,
+.toggAnadolu {
+  position: absolute;
+  top: 6px;
+  left: 39px;
+}
+.bmwGpParent {
+  top: 158px;
+  left: 25px;
+  height: 620px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 148px 0 0;
+  box-sizing: border-box;
+  gap: 18px 0;
+}
+.rentPageItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--absolute-static-white-s);
+  width: 390px;
+  height: 109px;
+}
+.brandNameChild,
+.brandNameItem {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: var(--color-mediumblue-100);
+  width: 83px;
+  height: 20px;
+}
+.brandNameItem {
+  left: 83px;
+  background-color: var(--color-gold);
+  width: 85px;
+}
+.renting {
+  color: var(--color-gray-100);
+}
+.brandName,
+.premierRenting {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.brandName {
+  top: 45px;
+  left: 111px;
+  width: 168px;
+  height: 27px;
+  font-size: var(--font-size-4xl);
+  color: var(--absolute-static-white-s);
+}
+.searchVehicleChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--absolute-static-white-s);
+  box-shadow: 0 0 26px -6px rgba(0, 0, 0, 0.25);
+  width: 341px;
+  height: 47px;
+}
+.akarIconssearch {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.searchVehicle,
+.searchVehicle1 {
+  position: absolute;
+  top: 16px;
+  left: 47px;
+}
+.searchVehicle {
+  top: 94px;
+  left: 34px;
+  width: 341px;
+  height: 47px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+}
+.imageIcon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.profileChild {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-mediumblue-200);
+  border: 0.5px solid var(--absolute-static-white-s);
+  box-sizing: border-box;
+  width: 10px;
+  height: 10px;
+}
+.profile,
+.rentPageInner {
+  position: absolute;
+  top: 39px;
+  left: 325px;
+  width: 40px;
+  height: 40px;
+}
+.rentPageInner {
+  top: 777.9px;
+  left: -0.1px;
+  border-top: 0.2px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 390.2px;
+  height: 0.2px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.73%;
+  width: 3.08%;
+  top: 5.81%;
+  right: 89.74%;
+  bottom: 91.47%;
+  left: 7.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.batteryIcon {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 11.3px);
+  width: 27.4px;
+  height: 13px;
+}
+.wifiIcon {
+  position: relative;
+  width: 17px;
+  height: 12px;
+}
+.iconMobileSignal,
+.topMenu {
+  position: absolute;
+  top: 1px;
+  left: calc(50% - 38.7px);
+  width: 18px;
+  height: 12px;
+}
+.topMenu {
+  top: 11px;
+  left: calc(50% + 102px);
+  width: 77.4px;
+  height: 13px;
+}
+.rentPage {
+  width: 390px;
+  background-color: var(--absolute-static-white-s);
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-gray-100);
+  font-family: var(--font-sf-pro-display);
+}

@@ -1,0 +1,52 @@
+.activeTab1TextLabelnoBChild,
+.activeTab1TextLabelnoBInner,
+.activeTab1TextLabelnoBItem {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% - 93px);
+  width: 89px;
+  height: 88px;
+}
+.activeTab1TextLabelnoBInner,
+.activeTab1TextLabelnoBItem {
+  left: calc(50% + 4px);
+}
+.activeTab1TextLabelnoBInner {
+  left: calc(50% + 101px);
+}
+.vuesaxbulkhome2Icon {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: calc(50% - 12.5px);
+  width: 24px;
+  height: 24px;
+}
+.home {
+  position: absolute;
+  top: calc(50% + 4px);
+  left: calc(50% - 22.5px);
+  text-transform: capitalize;
+}
+.unionIcon {
+  position: relative;
+  width: 37px;
+  height: 8.1px;
+}
+.vuesaxbulkhome2Parent {
+  position: absolute;
+  top: calc(50% - 44px);
+  left: calc(50% - 190px);
+  width: 89px;
+  height: 88px;
+  overflow: hidden;
+}
+.activeTab1TextLabelnoB {
+  width: 428px;
+  background-color: var(--absolute-static-white-s);
+  height: 88px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--text-1-size);
+  color: var(--sky-06);
+  font-family: var(--font-montserrat);
+}

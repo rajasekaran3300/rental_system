@@ -1,0 +1,83 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini) var(--br-mini) 0 var(--br-mini);
+  background-color: var(--color-mediumblue-100);
+  box-shadow: 0 29px 15px -20px rgba(0, 0, 0, 0.25);
+  width: 341px;
+  height: 112px;
+}
+.bmw840i2dCoupeBlue20211Icon {
+  position: absolute;
+  top: 15px;
+  left: 12px;
+  width: 162px;
+  height: 93px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 341px;
+  height: 112px;
+}
+.startingFrom55,
+.suvsCars1 {
+  position: absolute;
+  top: 4px;
+  left: 20px;
+}
+.startingFrom55 {
+  top: 100px;
+  font-size: var(--font-size-6xs);
+}
+.startYourNatural {
+  margin: 0;
+}
+.startYourNaturalContainer {
+  position: absolute;
+  top: 28px;
+  left: 181px;
+  font-size: var(--font-size-lg);
+  text-align: right;
+}
+.weFound13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.05em;
+}
+.vectorIcon {
+  position: absolute;
+  height: 66.36%;
+  width: 8.98%;
+  top: 27.27%;
+  right: 0;
+  bottom: 6.36%;
+  left: 91.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.suvsCars,
+.weFound13OffersParent {
+  position: absolute;
+  top: 92px;
+  left: 244px;
+  width: 83.5px;
+  height: 11px;
+  font-size: var(--font-size-4xs);
+}
+.suvsCars {
+  top: 132px;
+  left: 0;
+  width: 341px;
+  height: 112px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--absolute-static-white-s);
+  font-family: var(--font-sf-pro-display);
+}
